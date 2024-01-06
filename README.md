@@ -15,9 +15,9 @@
 10. /File/video --> sample-video.mp4
 
 ### Command Line Arguments
-1. v - print current version
-2. p - configure running port
-3. b - configure maximum nunber of request wait in queue
-4. r - show/hide routes
+-v --> print current version
+-p --> configure running port
+-b --> configure maximum nunber of request wait in queue
+-r --> show/hide routes
 
 eg:- HTTPWebServer -v -p 8081 -b 20 -r true
