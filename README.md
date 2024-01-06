@@ -1,4 +1,5 @@
 # HTTP-Web-Server 
+Simple web server build in c from scratch.
 
 ### Run: Debug/HTTPWebServer.exe --> Open browser: http://localhost:8080/
 
