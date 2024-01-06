@@ -1,6 +1,6 @@
 # HTTP-Web-Server 
 
-### Run: Debug/HTTPWebServer.exe
+### Run: Debug/HTTPWebServer.exe --> Open browser: http://localhost:8080/
 ### Routes
 1. 	/ --> index.html
 2. /home --> index.html
