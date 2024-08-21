@@ -1,6 +1,8 @@
 # HTTP-Web-Server 
 Simple web server build in c from scratch.
 
+![Index](https://github.com/user-attachments/assets/33bdef99-8d95-4d1a-9e55-6837c3863a31)
+
 #### Compile: gcc main.c Client.c Response.c Routes.c Server.c Parameters.c -o Debug/HTTPWebServer
 
 #### Run (Windows): cd Debug && HTTPWebServer.exe --> Open browser: http://localhost:8080/
