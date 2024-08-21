@@ -1,6 +1,9 @@
 # HTTP-Web-Server 
 
-### Run: Debug/HTTPWebServer.exe --> Open browser: http://localhost:8080/
+### Compile: gcc main.c Client.c Response.c Routes.c Server.c Parameters.c -o Debug/HTTPWebServer
+
+### Run (Windows): cd Debug && HTTPWebServer.exe --> Open browser: http://localhost:8080/
+### Run (Linux): cd Debug && ./HTTPWebServer -v -p 8080 -b 20 -r true --> Open browser: http://localhost:8080/
 
 ### Routes
 1. 	/ --> index.html
@@ -19,5 +22,3 @@
 2. -p --> configure running port
 3. -b --> configure maximum nunber of request wait in queue
 4. -r --> show/hide routes
-
-##### eg:- HTTPWebServer -v -p 8081 -b 20 -r true
