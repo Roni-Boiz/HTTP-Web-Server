@@ -1,7 +1,7 @@
 # HTTP-Web-Server 
 Simple web server build in C progamming language from scratch.
 
-![Home](https://github.com/user-attachments/assets/4b25e12b-dfa3-4ed4-85c9-f523ceb9142f)
+![Home](https://github.com/user-attachments/assets/ea159e47-cdae-4c35-8f00-62515aac1084)
 
 #### Compile: gcc main.c Client.c Response.c Routes.c Server.c Parameters.c -o Debug/HTTPWebServer
 
